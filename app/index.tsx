@@ -1,6 +1,6 @@
 import { parse } from "@babel/core";
 import React,{ useState, useEffect } from "react";
-import { ScrollView,Image,View,Text,TextInput,TouchableOpacity,StatusBar,StyleSheet, Touchable } from "react-native";
+import { ScrollView,Image,View,Text,TextInput,TouchableOpacity,StatusBar,StyleSheet } from "react-native";
 
 const App = () => { 
 
